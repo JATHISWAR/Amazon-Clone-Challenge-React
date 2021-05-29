@@ -1,7 +1,7 @@
 <h1>Amazon Clone Challenge</h1>
 <hr></hr>
 
-<h2 a href="https://clone-7edfa.web.app/login"> App link </h2>
+<a href="https://clone-7edfa.web.app/login"> App link </a>
 
 
 
