@@ -13,6 +13,9 @@ function Checkout() {
                 src="https://www.cardexpert.in/wp-content/uploads/2019/04/amazon_pay_credit_card_application_1-1024x339.png"
                 alt=""/>
                 <div>
+                    <br/>
+                    <h3>{!user ? ' ': 'Hello, '+user.email}</h3>
+                    <br/>
                     <h2 className="checkout_title">
                        Shopping Cart
                     </h2>
