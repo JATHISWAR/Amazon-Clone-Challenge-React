@@ -8,7 +8,7 @@ import Checkout from './components/Checkout';
 import Login from './components/Login';
 import {auth} from './Firebase';
 import {useStateValue} from './StateProvider';
-
+import Payment from './components/Payment';
 function App() {
 
   const [{},dispatch] = useStateValue();
@@ -34,22 +34,26 @@ function App() {
   }, [])
   return (
     <Router>
-    <div className="App">
+    <div className="app">
       <Switch>
         <Route path="/login">
-          <Login/>
+          <Login />
         </Route>
         <Route path="/checkout">
-        <Header/>
-          <Checkout/>
+          <Header />
+          <Checkout />
+        </Route>
+        <Route path="/payment">
+          <Header />
+          <Payment/>
         </Route>
         <Route path="/">
-        <Header/>  
-      <Home/>
-      </Route>
+          <Header />
+          <Home />
+        </Route>
       </Switch>
     </div>
-    </Router>
+  </Router>
   );
 }
 
