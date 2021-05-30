@@ -17,4 +17,4 @@ Client Secret Key Generated for Each Payment Checkout.
 
 Payment Requests Shown in Firebase Emulator
 
-<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%201.07.33%20PM.png" width="600" height="400"/>
+<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%201.14.58%20PM.png" width="600" height="400"/>
