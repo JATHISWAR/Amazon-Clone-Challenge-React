@@ -26,7 +26,7 @@ Payment Information and Status Shown in Stripe
 
 
 
-<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%201.19.26%20PM.png" width="600" height="400"/>
-<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%201.27.05%20PM.png" width="600" height="400"/>
-<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%201.19.26%20PM.png" width="600" height="400"/>
+<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%203.59.35%20PM.png" width="600" height="400"/>
+<img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%204.08.34%20PM.png" width="600" height="400"/>
+<img src="hhttps://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshots/Screenshot%202021-05-30%20at%204.10.26%20PM.png" width="600" height="400"/>
 
