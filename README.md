@@ -12,4 +12,5 @@
 <img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%2011.22.08%20AM.png" width="600" height="400"/>
 
 Client Secret Key Generated for Each Payment Checkout.
+
 <img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%201.07.33%20PM.png" width="600" height="400"/>
