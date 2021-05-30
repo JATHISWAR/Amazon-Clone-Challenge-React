@@ -20,4 +20,5 @@ Payment Requests Shown in Firebase Emulator
 <img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%201.14.58%20PM.png" width="600" height="400"/>
 
 Payment Information and Status Shown in Stripe 
+
 <img src="https://github.com/JATHISWAR/Amazon-Clone-Challenge-React/blob/final/Screenshot%202021-05-30%20at%201.19.26%20PM.png" width="600" height="400"/>
